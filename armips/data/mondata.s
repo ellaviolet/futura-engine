@@ -3080,9 +3080,9 @@ mondata SPECIES_ZAPDOS, "Zapdos"
     mondexweight SPECIES_ZAPDOS, "116.0 lbs."
 
 
-mondata SPECIES_MOLTRES, "Moltres"
+mondata SPECIES_PHOERA, "Phoera"
     basestats 90, 100, 90, 90, 125, 85
-    types TYPE_FIRE, TYPE_FLYING
+    types TYPE_FIRE, TYPE_DARK
     catchrate 3
     baseexp 0 // defined in baseexp.s
     evyields 0, 0, 0, 0, 3, 0
@@ -3095,10 +3095,10 @@ mondata SPECIES_MOLTRES, "Moltres"
     abilities ABILITY_PRESSURE, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_YELLOW, 0
-    mondexentry SPECIES_MOLTRES, "This legendary Pokémon scatters\nembers with every flap of its wings.\nIt is a thrilling sight to behold."
-    mondexclassification SPECIES_MOLTRES, "Flame Pokémon"
-    mondexheight SPECIES_MOLTRES, "6’07”"
-    mondexweight SPECIES_MOLTRES, "132.3 lbs."
+    mondexentry SPECIES_PHOERA, "This legendary Pokémon scatters\nembers with every flap of its wings.\nIt is a thrilling sight to behold."
+    mondexclassification SPECIES_PHOERA, "Phoenix Pokémon"
+    mondexheight SPECIES_PHOERA, "6’03”"
+    mondexweight SPECIES_PHOERA, "119.5 lbs."
 
 
 mondata SPECIES_DRATINI, "Dratini"
@@ -5411,9 +5411,9 @@ mondata SPECIES_COMBUSKEN, "Combusken"
     mondexweight SPECIES_COMBUSKEN, "43.0 lbs."
 
 
-mondata SPECIES_BLAZIKEN, "Blaziken"
+mondata SPECIES_IRON_FLARE, "Iron Flare"
     basestats 80, 120, 70, 80, 110, 70
-    types TYPE_FIRE, TYPE_FIGHTING
+    types TYPE_FIRE, TYPE_STEEL
     catchrate 45
     baseexp 0 // defined in baseexp.s
     evyields 0, 3, 0, 0, 0, 0
@@ -5426,10 +5426,10 @@ mondata SPECIES_BLAZIKEN, "Blaziken"
     abilities ABILITY_BLAZE, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_RED, 0
-    mondexentry SPECIES_BLAZIKEN, "It can clear a 30-story building\nin a leap. Its fiery punches scorch\nits foes."
-    mondexclassification SPECIES_BLAZIKEN, "Blaze Pokémon"
-    mondexheight SPECIES_BLAZIKEN, "6’03”"
-    mondexweight SPECIES_BLAZIKEN, "114.6 lbs."
+    mondexentry SPECIES_IRON_FLARE, "It can clear a 30-story building\nin a leap. Its fiery punches scorch\nits foes."
+    mondexclassification SPECIES_IRON_FLARE, "Flare Pokémon"
+    mondexheight SPECIES_IRON_FLARE, "6’03”"
+    mondexweight SPECIES_IRON_FLARE, "114.6 lbs."
 
 
 mondata SPECIES_MUDKIP, "Mudkip"
@@ -8183,9 +8183,9 @@ mondata SPECIES_GROTLE, "Grotle"
     mondexweight SPECIES_GROTLE, "213.8 lbs."
 
 
-mondata SPECIES_TORTERRA, "Torterra"
+mondata SPECIES_IRON_BARK, "Iron Bark"
     basestats 95, 109, 105, 56, 75, 85
-    types TYPE_GRASS, TYPE_GROUND
+    types TYPE_GRASS, TYPE_STEEL
     catchrate 45
     baseexp 0 // defined in baseexp.s
     evyields 0, 2, 1, 0, 0, 0
@@ -8198,10 +8198,10 @@ mondata SPECIES_TORTERRA, "Torterra"
     abilities ABILITY_OVERGROW, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
-    mondexentry SPECIES_TORTERRA, "Ancient people imagined that\nbeneath the ground, a gigantic\nTORTERRA dwelled."
-    mondexclassification SPECIES_TORTERRA, "Continent Pokémon"
-    mondexheight SPECIES_TORTERRA, "7’03”"
-    mondexweight SPECIES_TORTERRA, "683.4 lbs."
+    mondexentry SPECIES_IRON_BARK, "Ancient people imagined that\nbeneath the ground, a gigantic\nTORTERRA dwelled."
+    mondexclassification SPECIES_IRON_BARK, "Continent Pokémon"
+    mondexheight SPECIES_IRON_BARK, "7’03”"
+    mondexweight SPECIES_IRON_BARK, "683.4 lbs."
 
 
 mondata SPECIES_CHIMCHAR, "Chimchar"
@@ -14882,9 +14882,9 @@ mondata SPECIES_FROGADIER, "Frogadier"
     mondexweight SPECIES_FROGADIER, "24.0 lbs."
 
 
-mondata SPECIES_GRENINJA, "Greninja"
+mondata SPECIES_IRON_SHURIKEN "IronShurkn"
     basestats 72, 95, 67, 122, 103, 71
-    types TYPE_WATER, TYPE_DARK
+    types TYPE_WATER, TYPE_STEEL
     catchrate 45
     baseexp 0 // defined in baseexp.s
     evyields 0, 0, 0, 3, 0, 0
@@ -14897,10 +14897,10 @@ mondata SPECIES_GRENINJA, "Greninja"
     abilities ABILITY_TORRENT, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
-    mondexentry SPECIES_GRENINJA, "It creates throwing stars out of\ncompressed water, that can split metal\nin two."
-    mondexclassification SPECIES_GRENINJA, "Ninja Pokémon"
-    mondexheight SPECIES_GRENINJA, "4’11”"
-    mondexweight SPECIES_GRENINJA, "88.2 lbs."
+    mondexentry SPECIES_IRON_SHURIKEN "It creates throwing stars out of\ncompressed water, that can split metal\nin two."
+    mondexclassification SPECIES_IRON_SHURIKEN "Shuriken Pokémon"
+    mondexheight SPECIES_IRON_SHURIKEN "4’11”"
+    mondexweight SPECIES_IRON_SHURIKEN "88.2 lbs."
 
 
 mondata SPECIES_BUNNELBY, "Bunnelby"
