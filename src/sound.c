@@ -35,14 +35,12 @@ void LONG_CALL NNS_SndMain_Hook(void){
     NWAVPlayer_updateFade();
 }
 
-/*
 void LONG_CALL NNS_SndPlayerSetTempoRatio_Hook(int handle, int tempo){
     NNS_SndPlayerSetTempoRatio_Original(handle, tempo);
     //debug_printf("[NNS_SndPlayerSetTempoRatio_Hook] Setting tempo ratio to %d.\n", tempo);
     //this still needs to be tested.
     //NWAVPlayer_setSpeed(tempo << 12 >> 8);
 }
-*/
 
 
 void LONG_CALL GF_SndHandleMoveVolume_Hook(int param1, int volume, int frames)
