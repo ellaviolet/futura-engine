@@ -3080,7 +3080,7 @@ mondata SPECIES_ZAPDOS, "Zapdos"
     mondexweight SPECIES_ZAPDOS, "116.0 lbs."
 
 
-mondata SPECIES_PHOERA, "Phoera"
+mondata SPECIES_MOLTRES, "Phoera"
     basestats 90, 100, 90, 90, 125, 85
     types TYPE_FIRE, TYPE_DARK
     catchrate 3
@@ -3095,10 +3095,10 @@ mondata SPECIES_PHOERA, "Phoera"
     abilities ABILITY_PRESSURE, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_YELLOW, 0
-    mondexentry SPECIES_PHOERA, "This legendary Pokémon scatters\nembers with every flap of its wings.\nIt is a thrilling sight to behold."
-    mondexclassification SPECIES_PHOERA, "Phoenix Pokémon"
-    mondexheight SPECIES_PHOERA, "6’03”"
-    mondexweight SPECIES_PHOERA, "119.5 lbs."
+    mondexentry SPECIES_MOLTRES, "This legendary Pokémon scatters\nembers with every flap of its wings.\nIt is a thrilling sight to behold."
+    mondexclassification SPECIES_MOLTRES, "Phoenix Pokémon"
+    mondexheight SPECIES_MOLTRES, "6’03”"
+    mondexweight SPECIES_MOLTRES, "119.5 lbs."
 
 
 mondata SPECIES_DRATINI, "Dratini"
@@ -5411,7 +5411,7 @@ mondata SPECIES_COMBUSKEN, "Combusken"
     mondexweight SPECIES_COMBUSKEN, "43.0 lbs."
 
 
-mondata SPECIES_IRON_FLARE, "Iron Flare"
+mondata SPECIES_BLAZIKEN, "Iron Flare"
     basestats 80, 120, 70, 80, 110, 70
     types TYPE_FIRE, TYPE_STEEL
     catchrate 45
@@ -5426,10 +5426,10 @@ mondata SPECIES_IRON_FLARE, "Iron Flare"
     abilities ABILITY_BLAZE, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_RED, 0
-    mondexentry SPECIES_IRON_FLARE, "It can clear a 30-story building\nin a leap. Its fiery punches scorch\nits foes."
-    mondexclassification SPECIES_IRON_FLARE, "Flare Pokémon"
-    mondexheight SPECIES_IRON_FLARE, "6’03”"
-    mondexweight SPECIES_IRON_FLARE, "114.6 lbs."
+    mondexentry SPECIES_BLAZIKEN, "It can clear a 30-story building\nin a leap. Its fiery punches scorch\nits foes."
+    mondexclassification SPECIES_BLAZIKEN, "Flare Pokémon"
+    mondexheight SPECIES_BLAZIKEN, "6’03”"
+    mondexweight SPECIES_BLAZIKEN, "114.6 lbs."
 
 
 mondata SPECIES_MUDKIP, "Mudkip"
