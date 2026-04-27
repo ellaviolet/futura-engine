@@ -8183,7 +8183,7 @@ mondata SPECIES_GROTLE, "Grotle"
     mondexweight SPECIES_GROTLE, "213.8 lbs."
 
 
-mondata SPECIES_IRON_BARK, "Iron Bark"
+mondata SPECIES_TORTERRA, "Iron Bark"
     basestats 95, 109, 105, 56, 75, 85
     types TYPE_GRASS, TYPE_STEEL
     catchrate 45
@@ -8198,10 +8198,10 @@ mondata SPECIES_IRON_BARK, "Iron Bark"
     abilities ABILITY_OVERGROW, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
-    mondexentry SPECIES_IRON_BARK, "Ancient people imagined that\nbeneath the ground, a gigantic\nTORTERRA dwelled."
-    mondexclassification SPECIES_IRON_BARK, "Continent Pokémon"
-    mondexheight SPECIES_IRON_BARK, "7’03”"
-    mondexweight SPECIES_IRON_BARK, "683.4 lbs."
+    mondexentry SPECIES_TORTERRA, "Ancient people imagined that\nbeneath the ground, a gigantic\nTORTERRA dwelled."
+    mondexclassification SPECIES_TORTERRA, "Bark Pokémon"
+    mondexheight SPECIES_TORTERRA, "7’03”"
+    mondexweight SPECIES_TORTERRA, "683.4 lbs."
 
 
 mondata SPECIES_CHIMCHAR, "Chimchar"
@@ -14882,7 +14882,7 @@ mondata SPECIES_FROGADIER, "Frogadier"
     mondexweight SPECIES_FROGADIER, "24.0 lbs."
 
 
-mondata SPECIES_IRON_SHURIKEN "IronShurkn"
+mondata SPECIES_GRENINJA, "Iron Shrkn"
     basestats 72, 95, 67, 122, 103, 71
     types TYPE_WATER, TYPE_STEEL
     catchrate 45
@@ -14897,10 +14897,10 @@ mondata SPECIES_IRON_SHURIKEN "IronShurkn"
     abilities ABILITY_TORRENT, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
-    mondexentry SPECIES_IRON_SHURIKEN "It creates throwing stars out of\ncompressed water, that can split metal\nin two."
-    mondexclassification SPECIES_IRON_SHURIKEN "Shuriken Pokémon"
-    mondexheight SPECIES_IRON_SHURIKEN "4’11”"
-    mondexweight SPECIES_IRON_SHURIKEN "88.2 lbs."
+    mondexentry SPECIES_GRENINJA, "It creates throwing stars out of\ncompressed water, that can split metal\nin two."
+    mondexclassification SPECIES_GRENINJA, "Shuriken Pokémon"
+    mondexheight SPECIES_GRENINJA, "4’11”"
+    mondexweight SPECIES_GRENINJA, "88.2 lbs."
 
 
 mondata SPECIES_BUNNELBY, "Bunnelby"
